@@ -4,6 +4,8 @@ function panggilArray() {
 
     console.log(data.length)
     console.log(nama.length)
+
+    console.log(nama[3])
 }
 
 panggilArray()
