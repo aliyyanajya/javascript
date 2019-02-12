@@ -1,8 +1,8 @@
 function testingSwitch() {
-  var nilai = 10;
+  var nilai = "Dilo";
 
   switch (nilai) {
-    case 10:
+    case "Dilo":
       console.log("Sangat Bagus")
       break;
     case 8:
